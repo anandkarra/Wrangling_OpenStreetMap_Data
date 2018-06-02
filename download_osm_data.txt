@@ -1,0 +1,5 @@
+The OpenStreetMap data (.osm) file for the state of Delaware used in this project can be downloaded here:
+
+https://download.geofabrik.de/north-america/us/delaware.html
+
+14.7 MB | Compressed .osm.bz2

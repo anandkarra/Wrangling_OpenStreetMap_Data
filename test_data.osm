@@ -1,0 +1,813 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8.5" timestamp="2018-05-27T20:00:03Z">
+	<bounds minlat="38.45043" minlon="-75.78974" maxlat="40.03221" maxlon="-74.96121"/>
+	<node id="75385503" lat="39.8023061" lon="-75.4149476" version="4" timestamp="2012-12-12T21:57:28Z" changeset="0"/>
+	<node id="75390099" lat="39.7221284" lon="-75.7887221" version="5" timestamp="2011-05-02T06:00:51Z" changeset="0">
+		<tag k="ref" v="1"/>
+		<tag k="historic" v="boundary_stone"/>
+	</node>
+	<node id="75390129" lat="39.7439567" lon="-75.762562" version="2" timestamp="2010-05-28T12:50:44Z" changeset="0">
+		<tag k="source" v="tiger:boundaries"/>
+	</node>
+	<node id="75390163" lat="39.7556043" lon="-75.7544014" version="2" timestamp="2010-06-01T01:32:41Z" changeset="0">
+		<tag k="source" v="tiger:boundaries"/>
+	</node>
+	<node id="75390202" lat="39.781798" lon="-75.7301321" version="2" timestamp="2010-06-01T01:32:38Z" changeset="0">
+		<tag k="source" v="tiger:boundaries"/>
+	</node>
+	<node id="75390209" lat="39.7848591" lon="-75.726572" version="2" timestamp="2010-06-01T01:32:38Z" changeset="0">
+		<tag k="source" v="tiger:boundaries"/>
+	</node>
+	<node id="75390220" lat="39.7792758" lon="-75.732966" version="2" timestamp="2010-06-01T01:32:44Z" changeset="0">
+		<tag k="source" v="tiger:boundaries"/>
+	</node>
+	<node id="75390223" lat="39.791653" lon="-75.7176608" version="2" timestamp="2010-06-01T01:32:39Z" changeset="0">
+		<tag k="source" v="tiger:boundaries"/>
+	</node>
+	<node id="75390224" lat="39.7939574" lon="-75.7147491" version="2" timestamp="2010-06-01T01:32:44Z" changeset="0">
+		<tag k="source" v="tiger:boundaries"/>
+	</node>
+	<node id="75390230" lat="39.7893187" lon="-75.7207621" version="2" timestamp="2010-06-01T01:32:41Z" changeset="0">
+		<tag k="source" v="tiger:boundaries"/>
+	</node>
+	<node id="75390237" lat="39.7907056" lon="-75.7189779" version="2" timestamp="2010-06-01T01:32:44Z" changeset="0">
+		<tag k="source" v="tiger:boundaries"/>
+	</node>
+	<node id="75390248" lat="39.7656255" lon="-75.7465737" version="2" timestamp="2010-06-01T01:32:45Z" changeset="0">
+		<tag k="source" v="tiger:boundaries"/>
+	</node>
+	<node id="75390250" lat="39.8026906" lon="-75.7013548" version="2" timestamp="2010-06-01T01:32:38Z" changeset="0">
+		<tag k="source" v="tiger:boundaries"/>
+	</node>
+	<node id="75390258" lat="39.7580682" lon="-75.7526257" version="2" timestamp="2010-06-01T01:32:41Z" changeset="0">
+		<tag k="source" v="tiger:boundaries"/>
+	</node>
+	<node id="75390265" lat="39.7724626" lon="-75.7400192" version="2" timestamp="2010-06-01T01:32:45Z" changeset="0">
+		<tag k="source" v="tiger:boundaries"/>
+	</node>
+	<node id="75390270" lat="39.7738955" lon="-75.7384921" version="2" timestamp="2010-06-01T01:32:39Z" changeset="0">
+		<tag k="source" v="tiger:boundaries"/>
+	</node>
+	<node id="75390276" lat="39.760182" lon="-75.7509022" version="1" timestamp="2007-10-16T15:59:24Z" changeset="0">
+		<tag k="source" v="tiger:boundaries"/>
+	</node>
+	<node id="75390283" lat="39.7686447" lon="-75.7437152" version="2" timestamp="2010-06-01T01:32:41Z" changeset="0">
+		<tag k="source" v="tiger:boundaries"/>
+	</node>
+	<node id="75390289" lat="39.837455" lon="-75.593666" version="1" timestamp="2007-10-16T15:59:24Z" changeset="0">
+		<tag k="source" v="tiger:boundaries"/>
+	</node>
+	<node id="75390295" lat="39.8386968" lon="-75.5798588" version="3" timestamp="2010-06-01T01:32:46Z" changeset="0">
+		<tag k="source" v="tiger:boundaries"/>
+	</node>
+	<node id="75390296" lat="39.7772677" lon="-75.7349479" version="2" timestamp="2010-06-01T01:32:44Z" changeset="0">
+		<tag k="source" v="tiger:boundaries"/>
+	</node>
+	<node id="75390299" lat="39.8353924" lon="-75.6089078" version="2" timestamp="2010-05-28T12:49:57Z" changeset="0">
+		<tag k="source" v="tiger:boundaries"/>
+	</node>
+	<node id="75390304" lat="39.838987" lon="-75.5403445" version="3" timestamp="2010-06-01T01:32:43Z" changeset="0">
+		<tag k="source" v="tiger:boundaries"/>
+	</node>
+	<node id="75390306" lat="39.8381819" lon="-75.5309195" version="3" timestamp="2010-06-01T01:32:47Z" changeset="0">
+		<tag k="source" v="tiger:boundaries"/>
+	</node>
+	<node id="75390311" lat="39.8392773" lon="-75.5683858" version="3" timestamp="2010-06-01T01:32:41Z" changeset="0">
+		<tag k="source" v="tiger:boundaries"/>
+	</node>
+	<node id="75390316" lat="39.8394217" lon="-75.5496355" version="3" timestamp="2010-06-01T01:32:41Z" changeset="0">
+		<tag k="source" v="tiger:boundaries"/>
+	</node>
+	<node id="75390322" lat="39.8126928" lon="-75.6831433" version="2" timestamp="2010-06-01T01:32:45Z" changeset="0">
+		<tag k="source" v="tiger:boundaries"/>
+	</node>
+	<node id="75390327" lat="39.8112795" lon="-75.6859543" version="2" timestamp="2010-06-01T01:32:39Z" changeset="0">
+		<tag k="source" v="tiger:boundaries"/>
+	</node>
+	<node id="75390333" lat="39.8359278" lon="-75.5123765" version="3" timestamp="2010-06-01T01:32:41Z" changeset="0">
+		<tag k="source" v="tiger:boundaries"/>
+	</node>
+	<node id="75390340" lat="39.8142216" lon="-75.6799071" version="2" timestamp="2010-06-01T01:32:39Z" changeset="0">
+		<tag k="source" v="tiger:boundaries"/>
+	</node>
+	<node id="75390342" lat="39.8284475" lon="-75.6414079" version="2" timestamp="2010-06-01T01:32:44Z" changeset="0">
+		<tag k="source" v="tiger:boundaries"/>
+	</node>
+	<node id="75390347" lat="39.8300231" lon="-75.6355132" version="2" timestamp="2010-06-01T01:32:39Z" changeset="0">
+		<tag k="source" v="tiger:boundaries"/>
+	</node>
+	<node id="75390352" lat="39.8092396" lon="-75.6899859" version="2" timestamp="2010-06-01T01:32:46Z" changeset="0">
+		<tag k="source" v="tiger:boundaries"/>
+	</node>
+	<node id="75390356" lat="39.8212627" lon="-75.6630972" version="2" timestamp="2010-06-01T01:32:38Z" changeset="0">
+		<tag k="source" v="tiger:boundaries"/>
+	</node>
+	<node id="75390364" lat="39.8086521" lon="-75.4266363" version="3" timestamp="2016-07-26T18:21:35Z" changeset="0"/>
+	<node id="75390368" lat="39.833999" lon="-75.617251" version="1" timestamp="2007-10-16T15:59:29Z" changeset="0">
+		<tag k="source" v="tiger:boundaries"/>
+	</node>
+	<node id="75390376" lat="39.8324048" lon="-75.4941123" version="3" timestamp="2010-06-01T01:32:47Z" changeset="0">
+		<tag k="source" v="tiger:boundaries"/>
+	</node>
+	<node id="75390382" lat="39.8253793" lon="-75.4674425" version="2" timestamp="2010-06-01T01:32:43Z" changeset="0">
+		<tag k="source" v="tiger:boundaries"/>
+	</node>
+	<node id="75390388" lat="39.8303785" lon="-75.48508" version="2" timestamp="2010-06-01T01:32:41Z" changeset="0">
+		<tag k="source" v="tiger:boundaries"/>
+	</node>
+	<node id="75390394" lat="39.8193631" lon="-75.4502823" version="2" timestamp="2010-06-01T01:32:39Z" changeset="0">
+		<tag k="source" v="tiger:boundaries"/>
+	</node>
+	<node id="75390399" lat="39.815883" lon="-75.442067" version="2" timestamp="2010-06-01T01:32:43Z" changeset="0">
+		<tag k="source" v="tiger:boundaries"/>
+	</node>
+	<node id="75390405" lat="39.8279849" lon="-75.4762335" version="2" timestamp="2010-06-01T01:32:46Z" changeset="0">
+		<tag k="source" v="tiger:boundaries"/>
+	</node>
+	<node id="75390410" lat="39.8225298" lon="-75.4588278" version="2" timestamp="2010-06-01T01:32:41Z" changeset="0">
+		<tag k="source" v="tiger:boundaries"/>
+	</node>
+	<node id="75390426" lat="39.8121951" lon="-75.4339076" version="2" timestamp="2010-06-01T01:32:39Z" changeset="0">
+		<tag k="source" v="tiger:boundaries"/>
+	</node>
+	<node id="75395559" lat="39.7962274" lon="-75.4052809" version="3" timestamp="2012-11-07T08:05:51Z" changeset="0"/>
+	<node id="75395591" lat="39.6978599" lon="-75.506162" version="3" timestamp="2012-11-07T08:05:51Z" changeset="0"/>
+	<node id="75395619" lat="39.6975651" lon="-75.506789" version="3" timestamp="2012-11-07T08:05:51Z" changeset="0"/>
+	<node id="75395680" lat="39.7111499" lon="-75.4916379" version="4" timestamp="2012-11-07T08:05:51Z" changeset="0"/>
+	<node id="75395684" lat="39.7152914" lon="-75.4784809" version="4" timestamp="2012-11-07T08:05:51Z" changeset="0"/>
+	<node id="75395687" lat="39.7146558" lon="-75.4886636" version="4" timestamp="2012-11-07T08:05:51Z" changeset="0"/>
+	<node id="75395693" lat="39.7152366" lon="-75.4877181" version="4" timestamp="2012-11-07T08:05:51Z" changeset="0"/>
+	<node id="75395703" lat="39.6944979" lon="-75.5092972" version="3" timestamp="2012-11-07T08:05:51Z" changeset="0"/>
+	<node id="75395709" lat="39.7257192" lon="-75.4772026" version="3" timestamp="2012-11-07T08:05:51Z" changeset="0"/>
+	<node id="75395712" lat="39.7292448" lon="-75.4756269" version="3" timestamp="2012-11-07T08:05:51Z" changeset="0"/>
+	<node id="75395740" lat="39.7183801" lon="-75.476589" version="3" timestamp="2012-11-07T08:05:51Z" changeset="0"/>
+	<node id="75395754" lat="39.7836141" lon="-75.4380128" version="3" timestamp="2012-11-07T08:05:51Z" changeset="0"/>
+	<node id="75395757" lat="39.7765548" lon="-75.4471439" version="3" timestamp="2012-11-07T08:05:52Z" changeset="0"/>
+	<node id="75395770" lat="39.773629" lon="-75.4474138" version="3" timestamp="2012-11-07T08:05:52Z" changeset="0"/>
+	<node id="75395783" lat="39.720446" lon="-75.4764415" version="3" timestamp="2012-11-07T08:05:52Z" changeset="0"/>
+	<node id="75395794" lat="39.7743856" lon="-75.4484527" version="3" timestamp="2012-11-07T08:05:52Z" changeset="0"/>
+	<node id="75395825" lat="38.4512774" lon="-75.0395596" version="4" timestamp="2012-07-30T03:46:32Z" changeset="0">
+		<tag k="source" v="tiger:boundaries"/>
+	</node>
+    <way id="9650669" version="17" timestamp="2017-03-30T17:56:03Z" changeset="0">
+		<nd ref="75385503"/>
+		<nd ref="75390364"/>
+		<nd ref="4764696217"/>
+		<nd ref="75390426"/>
+		<nd ref="1116369070"/>
+		<tag k="admin_level" v="4"/>
+		<tag k="border_type" v="state"/>
+		<tag k="boundary" v="administrative"/>
+		<tag k="source" v="USGS DRG"/>
+	</way>
+	<way id="9650692" version="13" timestamp="2014-01-19T21:16:30Z" changeset="0">
+		<nd ref="603386705"/>
+		<nd ref="75444477"/>
+		<nd ref="760790597"/>
+		<nd ref="760790382"/>
+		<nd ref="760790527"/>
+		<nd ref="75444457"/>
+		<nd ref="760790458"/>
+		<nd ref="760790603"/>
+		<nd ref="760790592"/>
+		<nd ref="760790369"/>
+		<nd ref="760790301"/>
+		<nd ref="760790450"/>
+		<nd ref="760790318"/>
+		<nd ref="75444480"/>
+		<nd ref="760790468"/>
+		<nd ref="760790402"/>
+		<nd ref="760790544"/>
+		<nd ref="760790534"/>
+		<nd ref="760790309"/>
+		<nd ref="760790613"/>
+		<nd ref="760790391"/>
+		<nd ref="75444271"/>
+		<nd ref="760790493"/>
+		<nd ref="760790271"/>
+		<nd ref="760790569"/>
+		<nd ref="75444494"/>
+		<nd ref="760790345"/>
+		<nd ref="760790332"/>
+		<nd ref="75444497"/>
+		<nd ref="760790482"/>
+		<nd ref="760790415"/>
+		<nd ref="760790556"/>
+		<nd ref="760790437"/>
+		<nd ref="760790580"/>
+		<nd ref="760790515"/>
+		<nd ref="75444484"/>
+		<nd ref="760790290"/>
+		<nd ref="760790281"/>
+		<nd ref="760790427"/>
+		<nd ref="760790356"/>
+		<nd ref="760790504"/>
+		<nd ref="760790524"/>
+		<nd ref="760790299"/>
+		<nd ref="760790601"/>
+		<nd ref="75444489"/>
+		<nd ref="760790379"/>
+		<nd ref="760790366"/>
+		<nd ref="760790512"/>
+		<nd ref="760790447"/>
+		<nd ref="760790589"/>
+		<nd ref="760790465"/>
+		<nd ref="760790610"/>
+		<nd ref="760790541"/>
+		<nd ref="75444258"/>
+		<nd ref="760790315"/>
+		<nd ref="760790307"/>
+		<nd ref="75444298"/>
+		<nd ref="760790448"/>
+		<nd ref="760790380"/>
+		<nd ref="760790525"/>
+		<nd ref="760790399"/>
+		<nd ref="760790542"/>
+		<nd ref="75444269"/>
+		<nd ref="75444260"/>
+		<nd ref="760790476"/>
+		<nd ref="760790621"/>
+		<nd ref="760790611"/>
+		<nd ref="75444262"/>
+		<nd ref="760790389"/>
+		<nd ref="760790316"/>
+		<nd ref="760790466"/>
+		<nd ref="760790566"/>
+		<nd ref="760790342"/>
+		<nd ref="760790279"/>
+		<nd ref="760790424"/>
+		<nd ref="760790412"/>
+		<nd ref="75444255"/>
+		<nd ref="760790553"/>
+		<nd ref="760790490"/>
+		<nd ref="75444292"/>
+		<nd ref="760790268"/>
+		<nd ref="75444300"/>
+		<nd ref="760790513"/>
+		<nd ref="760790288"/>
+		<nd ref="760790590"/>
+		<nd ref="760790367"/>
+		<nd ref="75444287"/>
+		<nd ref="760790354"/>
+		<nd ref="760790502"/>
+		<nd ref="760790435"/>
+		<nd ref="760790578"/>
+		<nd ref="760790598"/>
+		<nd ref="760790376"/>
+		<nd ref="760790305"/>
+		<nd ref="760790454"/>
+		<nd ref="760790444"/>
+		<nd ref="760790586"/>
+		<nd ref="760790521"/>
+		<nd ref="760790296"/>
+		<nd ref="760790539"/>
+		<nd ref="760790313"/>
+		<nd ref="760790619"/>
+		<nd ref="760790397"/>
+		<nd ref="760790387"/>
+		<nd ref="760790531"/>
+		<nd ref="760790463"/>
+		<nd ref="760790608"/>
+		<nd ref="75444328"/>
+		<nd ref="760790338"/>
+		<nd ref="760790488"/>
+		<nd ref="760790420"/>
+		<nd ref="760790561"/>
+		<nd ref="760790550"/>
+		<nd ref="760790326"/>
+		<nd ref="760790265"/>
+		<nd ref="760790410"/>
+		<nd ref="760790286"/>
+		<nd ref="760790432"/>
+		<nd ref="760790363"/>
+		<nd ref="760790510"/>
+		<nd ref="760790498"/>
+		<nd ref="760790276"/>
+		<nd ref="760790575"/>
+		<nd ref="760790350"/>
+		<nd ref="760790574"/>
+		<nd ref="760790349"/>
+		<nd ref="760790285"/>
+		<nd ref="760790431"/>
+		<nd ref="760790419"/>
+		<nd ref="760790560"/>
+		<nd ref="760790497"/>
+		<nd ref="760790275"/>
+		<nd ref="760790520"/>
+		<nd ref="760790532"/>
+		<nd ref="760790295"/>
+		<nd ref="760790596"/>
+		<nd ref="760790374"/>
+		<nd ref="760790362"/>
+		<nd ref="760790509"/>
+		<nd ref="760790443"/>
+		<nd ref="760790585"/>
+		<nd ref="760790314"/>
+		<nd ref="760790464"/>
+		<nd ref="760790398"/>
+		<nd ref="760790540"/>
+		<nd ref="75444373"/>
+		<nd ref="760790306"/>
+		<nd ref="760790609"/>
+		<nd ref="760790388"/>
+		<nd ref="760790264"/>
+		<nd ref="760790409"/>
+		<nd ref="2629136743"/>
+		<nd ref="2629136719"/>
+		<nd ref="760790337"/>
+		<nd ref="760790487"/>
+		<nd ref="760790475"/>
+		<nd ref="760790620"/>
+		<nd ref="760790549"/>
+		<nd ref="760790325"/>
+		<nd ref="760790348"/>
+		<nd ref="760790496"/>
+		<nd ref="2629129706"/>
+		<tag k="source" v="USGS DRG"/>
+		<tag k="boundary" v="administrative"/>
+		<tag k="admin_level" v="4"/>
+		<tag k="border_type" v="state"/>
+	</way>
+	<way id="9650874" version="18" timestamp="2013-07-02T06:26:22Z" changeset="0">
+		<nd ref="75390099"/>
+		<nd ref="1014893845"/>
+		<nd ref="2370232598"/>
+		<tag k="name" v="Mason-Dixon Line"/>
+		<tag k="source" v="USGS DRG"/>
+		<tag k="boundary" v="administrative"/>
+		<tag k="admin_level" v="4"/>
+		<tag k="border_type" v="state"/>
+	</way>
+	<way id="11749631" version="1" timestamp="2007-11-10T06:21:24Z" changeset="0">
+		<nd ref="105201338"/>
+		<nd ref="105201343"/>
+		<nd ref="105201345"/>
+		<tag k="name" v="Riverwalk"/>
+		<tag k="highway" v="residential"/>
+		<tag k="tiger:cfcc" v="A41"/>
+		<tag k="tiger:tlid" v="174430038"/>
+		<tag k="tiger:county" v="Salem, NJ"/>
+		<tag k="tiger:source" v="tiger_import_dch_v0.6_20070828"/>
+		<tag k="tiger:reviewed" v="no"/>
+		<tag k="tiger:zip_left" v="08069"/>
+		<tag k="tiger:name_base" v="Riverwalk"/>
+		<tag k="tiger:separated" v="no"/>
+		<tag k="tiger:zip_right" v="08069"/>
+		<tag k="tiger:upload_uuid" v="bulk_upload.pl-91d7c84f-d1bf-49fc-be0b-0ceb40d5b641"/>
+	</way>
+	<way id="11749654" version="1" timestamp="2007-11-10T06:21:35Z" changeset="0">
+		<nd ref="105201643"/>
+		<nd ref="105201645"/>
+		<nd ref="105201646"/>
+		<tag k="name" v="Smith"/>
+		<tag k="highway" v="residential"/>
+		<tag k="tiger:cfcc" v="A41"/>
+		<tag k="tiger:tlid" v="174421579"/>
+		<tag k="tiger:county" v="Salem, NJ"/>
+		<tag k="tiger:source" v="tiger_import_dch_v0.6_20070828"/>
+		<tag k="tiger:reviewed" v="no"/>
+		<tag k="tiger:name_base" v="Smith"/>
+		<tag k="tiger:separated" v="no"/>
+		<tag k="tiger:upload_uuid" v="bulk_upload.pl-91d7c84f-d1bf-49fc-be0b-0ceb40d5b641"/>
+	</way>
+	<way id="11749777" version="3" timestamp="2013-01-27T14:56:13Z" changeset="0">
+		<nd ref="105202652"/>
+		<nd ref="1923001760"/>
+		<tag k="name" v="West Union Street"/>
+		<tag k="highway" v="residential"/>
+		<tag k="tiger:cfcc" v="A41"/>
+		<tag k="tiger:county" v="Salem, NJ"/>
+		<tag k="tiger:reviewed" v="no"/>
+		<tag k="tiger:zip_left" v="08069"/>
+		<tag k="tiger:name_base" v="Union"/>
+		<tag k="tiger:name_type" v="St"/>
+		<tag k="tiger:zip_right" v="08069"/>
+		<tag k="tiger:name_direction_prefix" v="W"/>
+	</way>
+	<way id="11749873" version="4" timestamp="2012-09-21T05:23:27Z" changeset="0">
+		<nd ref="105203702"/>
+		<nd ref="105203705"/>
+		<tag k="highway" v="track"/>
+		<tag k="tiger:cfcc" v="A41"/>
+		<tag k="tiger:tlid" v="174415327:174415324:174415325:174415329:174415299:174415333:174419514:174415315"/>
+		<tag k="tiger:county" v="Salem, NJ"/>
+		<tag k="tiger:source" v="tiger_import_dch_v0.6_20070828"/>
+		<tag k="tiger:reviewed" v="no"/>
+		<tag k="tiger:separated" v="no"/>
+		<tag k="tiger:upload_uuid" v="bulk_upload.pl-91d7c84f-d1bf-49fc-be0b-0ceb40d5b641"/>
+	</way>
+	<way id="11749877" version="7" timestamp="2013-07-04T00:09:58Z" changeset="0">
+		<nd ref="105203854"/>
+		<nd ref="105203859"/>
+		<nd ref="2372809490"/>
+		<tag k="access" v="private"/>
+		<tag k="highway" v="service"/>
+		<tag k="tiger:cfcc" v="A41"/>
+		<tag k="tiger:county" v="Salem, NJ"/>
+	</way>
+	<way id="11749885" version="6" timestamp="2013-07-01T12:37:34Z" changeset="0">
+		<nd ref="105203884"/>
+		<nd ref="2363922139"/>
+		<nd ref="105203887"/>
+		<nd ref="105203889"/>
+		<nd ref="105203893"/>
+		<nd ref="105203896"/>
+		<nd ref="105203901"/>
+		<nd ref="1812123899"/>
+		<nd ref="1812123858"/>
+		<nd ref="1812123881"/>
+		<tag k="access" v="private"/>
+		<tag k="highway" v="service"/>
+		<tag k="tiger:cfcc" v="A41"/>
+		<tag k="tiger:county" v="Salem, NJ"/>
+	</way>
+	<way id="11750205" version="2" timestamp="2017-08-26T15:38:59Z" changeset="0">
+		<nd ref="105206669"/>
+		<nd ref="105206672"/>
+		<nd ref="105206675"/>
+		<tag k="highway" v="residential"/>
+		<tag k="tiger:cfcc" v="A41"/>
+		<tag k="tiger:county" v="Salem, NJ"/>
+		<tag k="tiger:reviewed" v="no"/>
+	</way>
+	<way id="11750273" version="9" timestamp="2017-03-15T14:40:35Z" changeset="0">
+		<nd ref="105207232"/>
+		<nd ref="1812123853"/>
+		<nd ref="1812123870"/>
+		<nd ref="105207165"/>
+		<nd ref="2367401021"/>
+		<nd ref="2367401180"/>
+		<nd ref="2367401086"/>
+		<nd ref="2367401015"/>
+		<nd ref="2363909556"/>
+		<nd ref="105207239"/>
+		<nd ref="4736290734"/>
+		<nd ref="105207241"/>
+		<nd ref="2367435146"/>
+		<nd ref="105207244"/>
+		<nd ref="2368426533"/>
+		<nd ref="105207250"/>
+		<nd ref="2367435128"/>
+		<nd ref="105207253"/>
+		<nd ref="105207256"/>
+		<nd ref="105203916"/>
+		<tag k="access" v="private"/>
+		<tag k="highway" v="service"/>
+		<tag k="tiger:cfcc" v="A41"/>
+		<tag k="tiger:county" v="Salem, NJ"/>
+	</way>
+	<way id="11750308" version="4" timestamp="2013-07-04T23:41:15Z" changeset="0">
+		<nd ref="105204017"/>
+		<nd ref="2372836511"/>
+		<nd ref="2374402993"/>
+		<nd ref="105207714"/>
+		<nd ref="2374403047"/>
+		<nd ref="105207717"/>
+		<nd ref="1173918690"/>
+		<nd ref="1173918703"/>
+		<nd ref="2374402897"/>
+		<nd ref="1173918783"/>
+		<nd ref="105207719"/>
+		<nd ref="1173918731"/>
+		<nd ref="105207721"/>
+		<nd ref="105207726"/>
+		<nd ref="105207729"/>
+		<tag k="access" v="private"/>
+		<tag k="highway" v="service"/>
+		<tag k="tiger:cfcc" v="A41"/>
+		<tag k="tiger:county" v="Salem, NJ"/>
+	</way>
+	<way id="11750310" version="2" timestamp="2013-07-04T23:41:15Z" changeset="0">
+		<nd ref="105207733"/>
+		<nd ref="105207737"/>
+		<nd ref="105207726"/>
+		<tag k="access" v="private"/>
+		<tag k="highway" v="service"/>
+		<tag k="tiger:cfcc" v="A41"/>
+		<tag k="tiger:county" v="Salem, NJ"/>
+	</way>
+	<way id="11750311" version="5" timestamp="2013-07-04T23:41:15Z" changeset="0">
+		<nd ref="105207742"/>
+		<nd ref="2371444865"/>
+		<nd ref="105207737"/>
+		<nd ref="105207746"/>
+		<nd ref="105207752"/>
+		<nd ref="105207756"/>
+		<nd ref="105207759"/>
+		<nd ref="105207764"/>
+		<nd ref="105207768"/>
+		<nd ref="105207770"/>
+		<nd ref="105207772"/>
+		<tag k="access" v="private"/>
+		<tag k="highway" v="service"/>
+		<tag k="tiger:cfcc" v="A41"/>
+		<tag k="tiger:county" v="Salem, NJ"/>
+	</way>
+	<way id="11750349" version="6" timestamp="2013-06-28T02:51:34Z" changeset="0">
+		<nd ref="105208152"/>
+		<nd ref="105208155"/>
+		<nd ref="105208157"/>
+		<nd ref="105208163"/>
+		<nd ref="105208165"/>
+		<nd ref="105208167"/>
+		<nd ref="105208168"/>
+		<nd ref="105208174"/>
+		<nd ref="2363909540"/>
+		<tag k="highway" v="service"/>
+		<tag k="tiger:cfcc" v="A41"/>
+		<tag k="tiger:county" v="Salem, NJ"/>
+	</way>
+	<way id="11750537" version="4" timestamp="2014-01-19T21:16:32Z" changeset="0">
+		<nd ref="105207799"/>
+		<nd ref="105209829"/>
+		<nd ref="105209833"/>
+		<nd ref="105207742"/>
+		<nd ref="105207729"/>
+		<nd ref="105209837"/>
+		<nd ref="105209841"/>
+		<nd ref="2374403016"/>
+		<nd ref="105209843"/>
+		<nd ref="2374403021"/>
+		<nd ref="105209847"/>
+		<nd ref="105209851"/>
+		<nd ref="105209854"/>
+		<nd ref="105209857"/>
+		<nd ref="105209860"/>
+		<nd ref="105209863"/>
+		<nd ref="2374402998"/>
+		<nd ref="1173918773"/>
+		<nd ref="1173918716"/>
+		<nd ref="105209866"/>
+		<nd ref="105209868"/>
+		<tag k="access" v="private"/>
+		<tag k="highway" v="service"/>
+		<tag k="tiger:cfcc" v="A41"/>
+		<tag k="tiger:county" v="Salem, NJ"/>
+	</way>
+	<way id="11750671" version="1" timestamp="2007-11-10T06:29:48Z" changeset="0">
+		<nd ref="105210984"/>
+		<nd ref="105210976"/>
+		<tag k="access" v="private"/>
+		<tag k="highway" v="service"/>
+		<tag k="tiger:cfcc" v="A74"/>
+		<tag k="tiger:tlid" v="174411338"/>
+		<tag k="tiger:county" v="Salem, NJ"/>
+		<tag k="tiger:source" v="tiger_import_dch_v0.6_20070828"/>
+		<tag k="tiger:reviewed" v="no"/>
+		<tag k="tiger:upload_uuid" v="bulk_upload.pl-91d7c84f-d1bf-49fc-be0b-0ceb40d5b641"/>
+	</way>
+	<way id="11750775" version="3" timestamp="2013-07-04T23:41:16Z" changeset="0">
+		<nd ref="105209866"/>
+		<nd ref="2374402917"/>
+		<nd ref="105211876"/>
+		<nd ref="105211878"/>
+		<nd ref="105207717"/>
+		<tag k="access" v="private"/>
+		<tag k="highway" v="service"/>
+		<tag k="tiger:cfcc" v="A41"/>
+		<tag k="tiger:county" v="Salem, NJ"/>
+	</way>
+	<way id="11750829" version="3" timestamp="2011-12-20T19:46:49Z" changeset="0">
+		<nd ref="105212262"/>
+		<nd ref="105212267"/>
+		<nd ref="105212270"/>
+		<nd ref="105212271"/>
+		<nd ref="105212273"/>
+		<nd ref="105212275"/>
+		<nd ref="105212280"/>
+		<nd ref="105212281"/>
+		<tag k="access" v="private"/>
+		<tag k="highway" v="service"/>
+		<tag k="tiger:cfcc" v="A41"/>
+		<tag k="tiger:tlid" v="174411846:174411850"/>
+		<tag k="tiger:county" v="Salem, NJ"/>
+		<tag k="tiger:source" v="tiger_import_dch_v0.6_20070828"/>
+		<tag k="tiger:reviewed" v="no"/>
+		<tag k="tiger:separated" v="no"/>
+		<tag k="tiger:upload_uuid" v="bulk_upload.pl-91d7c84f-d1bf-49fc-be0b-0ceb40d5b641"/>
+	</way>
+	<way id="11751045" version="5" timestamp="2014-01-19T21:16:33Z" changeset="0">
+		<nd ref="1556168151"/>
+		<nd ref="1556168096"/>
+		<nd ref="1173891912"/>
+		<nd ref="1173891942"/>
+		<nd ref="1173891729"/>
+		<nd ref="1173891655"/>
+		<tag k="gauge" v="1435"/>
+		<tag k="railway" v="disused"/>
+		<tag k="service" v="spur"/>
+	</way>
+	<way id="11751048" version="6" timestamp="2015-06-17T11:07:12Z" changeset="0">
+		<nd ref="2372836512"/>
+		<nd ref="2372836538"/>
+		<nd ref="2372836510"/>
+		<nd ref="2372836511"/>
+		<nd ref="2372836542"/>
+		<nd ref="105213766"/>
+		<nd ref="2372836520"/>
+		<nd ref="105213768"/>
+		<nd ref="2372836492"/>
+		<nd ref="105213770"/>
+		<nd ref="2372836543"/>
+		<nd ref="105213774"/>
+		<nd ref="105213777"/>
+		<nd ref="105211876"/>
+		<nd ref="2372836541"/>
+		<nd ref="2372836493"/>
+		<nd ref="2372836535"/>
+		<nd ref="2372836537"/>
+		<nd ref="105213781"/>
+		<tag k="gauge" v="1435"/>
+		<tag k="usage" v="industrial"/>
+		<tag k="railway" v="rail"/>
+		<tag k="service" v="yard"/>
+		<tag k="tiger:cfcc" v="B11"/>
+		<tag k="electrified" v="no"/>
+		<tag k="tiger:county" v="Salem, NJ"/>
+		<tag k="railway:traffic_mode" v="freight"/>
+	</way>
+	<way id="11751140" version="3" timestamp="2013-07-04T01:54:18Z" changeset="0">
+		<nd ref="105203962"/>
+		<nd ref="105214445"/>
+		<nd ref="105214448"/>
+		<nd ref="2372838786"/>
+		<nd ref="105214449"/>
+		<nd ref="105214455"/>
+		<nd ref="105214456"/>
+		<nd ref="105214462"/>
+		<nd ref="105214464"/>
+		<nd ref="105203854"/>
+		<nd ref="105214468"/>
+		<nd ref="105214472"/>
+		<nd ref="1809639715"/>
+		<tag k="access" v="private"/>
+		<tag k="highway" v="service"/>
+		<tag k="tiger:cfcc" v="A41"/>
+		<tag k="tiger:county" v="Salem, NJ"/>
+	</way>
+	<way id="11751278" version="4" timestamp="2015-06-17T11:06:57Z" changeset="0">
+		<nd ref="105215579"/>
+		<nd ref="2629129922"/>
+		<nd ref="2629129816"/>
+		<nd ref="105215583"/>
+		<nd ref="105206687"/>
+		<nd ref="2629129906"/>
+		<nd ref="105215589"/>
+		<nd ref="105215591"/>
+		<nd ref="105215594"/>
+		<nd ref="2629129792"/>
+		<nd ref="105215598"/>
+		<nd ref="105215601"/>
+		<nd ref="105215602"/>
+		<nd ref="105215605"/>
+		<nd ref="2629129904"/>
+		<tag k="gauge" v="1435"/>
+		<tag k="usage" v="industrial"/>
+		<tag k="railway" v="rail"/>
+		<tag k="service" v="yard"/>
+		<tag k="tiger:cfcc" v="B11"/>
+		<tag k="electrified" v="no"/>
+		<tag k="tiger:county" v="Salem, NJ"/>
+		<tag k="tiger:reviewed" v="no"/>
+		<tag k="railway:traffic_mode" v="freight"/>
+	</way>
+	<way id="11751280" version="5" timestamp="2015-06-17T11:08:49Z" changeset="0">
+		<nd ref="105215612"/>
+		<nd ref="105215616"/>
+		<nd ref="105215619"/>
+		<nd ref="105215621"/>
+		<nd ref="1809639736"/>
+		<nd ref="1809639732"/>
+		<nd ref="105215623"/>
+		<tag k="gauge" v="1435"/>
+		<tag k="usage" v="industrial"/>
+		<tag k="railway" v="rail"/>
+		<tag k="service" v="yard"/>
+		<tag k="tiger:cfcc" v="B11"/>
+		<tag k="electrified" v="no"/>
+		<tag k="tiger:county" v="Salem, NJ"/>
+		<tag k="railway:traffic_mode" v="freight"/>
+	</way>
+	<way id="11751286" version="4" timestamp="2015-06-17T11:08:48Z" changeset="0">
+		<nd ref="105215629"/>
+		<nd ref="2372809484"/>
+		<nd ref="105215631"/>
+		<nd ref="105215636"/>
+		<nd ref="105215638"/>
+		<nd ref="105215639"/>
+		<nd ref="105215644"/>
+		<tag k="gauge" v="1435"/>
+		<tag k="usage" v="industrial"/>
+		<tag k="railway" v="rail"/>
+		<tag k="service" v="yard"/>
+		<tag k="tiger:cfcc" v="B11"/>
+		<tag k="electrified" v="no"/>
+		<tag k="tiger:county" v="Salem, NJ"/>
+		<tag k="railway:traffic_mode" v="freight"/>
+	</way>
+	<way id="11751318" version="2" timestamp="2013-01-03T20:28:16Z" changeset="0">
+		<nd ref="105215900"/>
+		<nd ref="105215901"/>
+		<nd ref="105215906"/>
+		<nd ref="105215910"/>
+		<nd ref="105215914"/>
+		<tag k="name" v="Spruce Street"/>
+		<tag k="highway" v="residential"/>
+		<tag k="tiger:cfcc" v="A41"/>
+		<tag k="tiger:county" v="Salem, NJ"/>
+		<tag k="tiger:reviewed" v="no"/>
+		<tag k="tiger:zip_left" v="08070"/>
+		<tag k="tiger:name_base" v="Spruce"/>
+		<tag k="tiger:name_type" v="St"/>
+		<tag k="tiger:zip_right" v="08070"/>
+	</way>
+	<way id="11751320" version="2" timestamp="2013-01-27T14:57:20Z" changeset="0">
+		<nd ref="105215919"/>
+		<nd ref="105215921"/>
+		<nd ref="105215924"/>
+		<nd ref="105215928"/>
+		<nd ref="105215930"/>
+		<nd ref="105215934"/>
+		<nd ref="105215935"/>
+		<tag k="name" v="Spruce Street"/>
+		<tag k="highway" v="residential"/>
+		<tag k="tiger:cfcc" v="A41"/>
+		<tag k="tiger:county" v="Salem, NJ"/>
+		<tag k="tiger:reviewed" v="no"/>
+		<tag k="tiger:zip_left" v="08069"/>
+		<tag k="tiger:name_base" v="Spruce"/>
+		<tag k="tiger:name_type" v="St"/>
+		<tag k="tiger:zip_right" v="08069"/>
+	</way>
+	<way id="11751382" version="2" timestamp="2013-01-27T14:57:24Z" changeset="0">
+		<nd ref="105216310"/>
+		<nd ref="105216313"/>
+		<nd ref="105216317"/>
+		<tag k="name" v="South New Street"/>
+		<tag k="highway" v="residential"/>
+		<tag k="tiger:cfcc" v="A41"/>
+		<tag k="tiger:county" v="Salem, NJ"/>
+		<tag k="tiger:reviewed" v="no"/>
+		<tag k="tiger:zip_left" v="08069"/>
+		<tag k="tiger:name_base" v="New"/>
+		<tag k="tiger:name_type" v="St"/>
+		<tag k="tiger:zip_right" v="08069"/>
+		<tag k="tiger:name_direction_prefix" v="S"/>
+	</way>
+	<way id="11751468" version="2" timestamp="2013-01-27T14:57:30Z" changeset="0">
+		<nd ref="105217101"/>
+		<nd ref="105217103"/>
+		<nd ref="105217104"/>
+		<nd ref="105217110"/>
+		<nd ref="105217112"/>
+		<nd ref="105217113"/>
+		<nd ref="105217118"/>
+		<nd ref="105217121"/>
+		<nd ref="105217125"/>
+		<nd ref="105217127"/>
+		<tag k="name" v="Yerkes Lane"/>
+		<tag k="highway" v="residential"/>
+		<tag k="tiger:cfcc" v="A41"/>
+		<tag k="tiger:county" v="Salem, NJ"/>
+		<tag k="tiger:reviewed" v="no"/>
+		<tag k="tiger:name_base" v="Yerkes"/>
+		<tag k="tiger:name_type" v="Ln"/>
+	</way>
+    <relation id="8305634" version="1" timestamp="2018-05-17T06:08:20Z" changeset="0">
+		<member type="way" ref="588863390" role="from"/>
+		<member type="node" ref="2781903907" role="via"/>
+		<member type="way" ref="588863381" role="to"/>
+		<tag k="implicit" v="yes"/>
+		<tag k="restriction" v="no_right_turn"/>
+		<tag k="type" v="restriction"/>
+	</relation>
+	<relation id="8305659" version="1" timestamp="2018-05-17T06:24:24Z" changeset="0">
+		<member type="way" ref="588866960" role="from"/>
+		<member type="node" ref="178689399" role="via"/>
+		<member type="way" ref="588866961" role="to"/>
+		<tag k="restriction" v="no_left_turn"/>
+		<tag k="type" v="restriction"/>
+	</relation>
+	<relation id="8305660" version="1" timestamp="2018-05-17T06:24:24Z" changeset="0">
+		<member type="way" ref="588866960" role="from"/>
+		<member type="node" ref="178689399" role="via"/>
+		<member type="way" ref="588866962" role="to"/>
+		<tag k="restriction" v="no_straight_on"/>
+		<tag k="type" v="restriction"/>
+	</relation>
+	<relation id="8312890" version="1" timestamp="2018-05-20T11:43:49Z" changeset="0">
+		<member type="way" ref="290509320" role="outer"/>
+		<member type="way" ref="47405836" role="outer"/>
+		<tag k="name" v="Chesapeake and Delaware Canal"/>
+		<tag k="type" v="multipolygon"/>
+		<tag k="waterway" v="riverbank"/>
+		<tag k="wikipedia" v="en:Chesapeake and Delaware Canal"/>
+	</relation>
+	<relation id="8319195" version="2" timestamp="2018-05-23T05:11:52Z" changeset="0">
+		<member type="way" ref="590254777" role="inner"/>
+		<member type="way" ref="590254758" role="outer"/>
+		<tag k="leisure" v="track"/>
+		<tag k="sport" v="running"/>
+		<tag k="type" v="multipolygon"/>
+	</relation>
+</osm>
