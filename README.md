@@ -1,3 +1,32 @@
+# Wrangling and Exploring OpenStreetMap Data
+
+Maps in addition to being of geographic importance also contain a lot of information about the people and communities living in a region. Analysing the map data allows us to uncover many of these interesting insights.
+
+The first step was to get hands on the map data. As the Google Maps API license does not permit scraping [Google Maps Platform Terms of Service](https://cloud.google.com/maps-platform/terms/#10-license-restrictions). I had to turn to [OpenStreetMap](https://www.openstreetmap.org), which is a community-driven mapping serivce. Also, OpenStreetMap publishes OSM files of regions, states and countries which is perfect for this project.
+
+## Map Area
+
+**Delaware, US**
+
+* OpenStreetMap file (compressed) (.osm.bz2) : [geofabrik.de](https://download.geofabrik.de/north-america/us/delaware.html) | **14.7 MB**
+* OpenStreetMap file (uncompressed) (.osm) : `delaware-latest.osm` | **171 MB**
+* Test data file (subset of the full uncompressed .osm file) : `test_data.osm` | **29.9 KB**
+
+I was initially interested in the map data for New York City but after downloading the corresponding OSM file and performing some preliminary exploration, I quickly realized that the I was short of computation resources as execution of any kind of operation took a long time for such a large dataset (~2 GB).
+
+Hence, I went back to the Open Street Map website and downloaded the map data for some other regions and finally settled for the state of **Delaware, US**.
+
+> The parsing, auditing and other steps can however be used for the map data of other regions as well with minor modifications.
+
+## Process overview
+* Preliminary exploration to assess the inconsistencies in the data.
+* Cleaning the data as per the requirement.
+* Parsing the data into CSV files.
+* Inserting the data from CSV files to an SQLite database.
+* Exploration of the data using SQL queries.
+
+> **The process of cleaning, parsing and exploration of the data is detailed in the report (Report.pdf) file.**
+
 # Files
 
 * **config.py** : Configuration file containing various parameters like location of .osm file, sqlite database (.db) file and CSV files.
